@@ -1,8 +1,8 @@
 {
-  "index_v2": "https://github.com/keiyoushi/extensions/raw/repo/index.pb",
+  "index_v2": "https://github.com/bapeey/extensions/raw/repo/index.pb",
   "meta": {
-    "name": "Keiyoushi",
-    "website": "https://keiyoushi.github.io",
-    "signingKeyFingerprint": "9add655a78e96c4ec7a53ef89dccb557cb5d767489fac5e785d671a5a75d4da2"
+    "name": "Bapeey Ext",
+    "website": "https://github.com/bapeey/extensions-source",
+    "signingKeyFingerprint": "c5a439715e85965e2f8de83f8e3e21f4 b2f6dedf38604fca0a4d1d3dfefbe0ec"
   }
 }

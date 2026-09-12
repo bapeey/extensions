@@ -56,7 +56,7 @@
         "resources": {
           "apkUrl": "https://cdn.jsdelivr.net/gh/bapeey/extensions@repo/apk/tachiyomi-es.ikigaimangas-v1.6.101.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/bapeey/extensions-source@main/src/es/ikigaimangas/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://raw.githubusercontent.com/bapeey/extensions/repo/jar/tachiyomi-es.ikigaimangas-v1.4.100.jar"
+          "jarUrl": "https://raw.githubusercontent.com/bapeey/extensions/repo/jar/tachiyomi-es.ikigaimangas-v1.6.101.jar"
         },
         "extensionLib": "1.6",
         "versionCode": "106101",

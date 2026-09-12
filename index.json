@@ -54,17 +54,17 @@
         "name": "EternalMangas",
         "packageName": "eu.kanade.tachiyomi.extension.es.eternalmangas",
         "resources": {
-          "apkUrl": "https://cdn.jsdelivr.net/gh/bapeey/extensions@repo/apk/tachiyomi-es.eternalmangas-v1.6.29.apk",
+          "apkUrl": "https://cdn.jsdelivr.net/gh/bapeey/extensions@repo/apk/tachiyomi-es.eternalmangas-v1.6.100.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/bapeey/extensions-source@main/src/es/eternalmangas/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://raw.githubusercontent.com/bapeey/extensions/repo/jar/tachiyomi-es.eternalmangas-v1.6.29.jar"
+          "jarUrl": "https://raw.githubusercontent.com/bapeey/extensions/repo/jar/tachiyomi-es.eternalmangas-v1.6.100.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106029",
-        "versionName": "1.6.29",
+        "versionCode": "106100",
+        "versionName": "1.6.100",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
-            "id": "1533901034425595323",
+            "id": "5749284484000945259",
             "name": "EternalMangas",
             "language": "es",
             "homeUrl": "https://eternalmangas.org"

@@ -12,13 +12,13 @@
         "name": "Catharsis World",
         "packageName": "eu.kanade.tachiyomi.extension.es.catharsisworld",
         "resources": {
-          "apkUrl": "https://cdn.jsdelivr.net/gh/bapeey/extensions@repo/apk/tachiyomi-es.catharsisworld-v1.6.100.apk",
+          "apkUrl": "https://cdn.jsdelivr.net/gh/bapeey/extensions@repo/apk/tachiyomi-es.catharsisworld-v1.6.101.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/bapeey/extensions-source@main/src/es/catharsisworld/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://raw.githubusercontent.com/bapeey/extensions/repo/jar/tachiyomi-es.catharsisworld-v1.6.100.jar"
+          "jarUrl": "https://raw.githubusercontent.com/bapeey/extensions/repo/jar/tachiyomi-es.catharsisworld-v1.6.101.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106100",
-        "versionName": "1.6.100",
+        "versionCode": "106101",
+        "versionName": "1.6.101",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
@@ -47,6 +47,27 @@
             "name": "Dat-Gar Scan",
             "language": "es",
             "homeUrl": "https://datgarscanlation.blogspot.com"
+          }
+        ]
+      },
+      {
+        "name": "EternalMangas",
+        "packageName": "eu.kanade.tachiyomi.extension.es.eternalmangas",
+        "resources": {
+          "apkUrl": "https://cdn.jsdelivr.net/gh/bapeey/extensions@repo/apk/tachiyomi-es.eternalmangas-v1.6.29.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/bapeey/extensions-source@main/src/es/eternalmangas/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://raw.githubusercontent.com/bapeey/extensions/repo/jar/tachiyomi-es.eternalmangas-v1.6.29.jar"
+        },
+        "extensionLib": "1.6",
+        "versionCode": "106029",
+        "versionName": "1.6.29",
+        "contentWarning": "CONTENT_WARNING_MIXED",
+        "sources": [
+          {
+            "id": "1533901034425595323",
+            "name": "EternalMangas",
+            "language": "es",
+            "homeUrl": "https://eternalmangas.org"
           }
         ]
       },

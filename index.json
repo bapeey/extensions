@@ -12,13 +12,13 @@
         "name": "Catharsis World",
         "packageName": "eu.kanade.tachiyomi.extension.es.catharsisworld",
         "resources": {
-          "apkUrl": "https://cdn.jsdelivr.net/gh/bapeey/extensions@repo/apk/tachiyomi-es.catharsisworld-v1.6.102.apk",
+          "apkUrl": "https://cdn.jsdelivr.net/gh/bapeey/extensions@repo/apk/tachiyomi-es.catharsisworld-v1.6.103.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/bapeey/extensions-source@main/src/es/catharsisworld/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://raw.githubusercontent.com/bapeey/extensions/repo/jar/tachiyomi-es.catharsisworld-v1.6.102.jar"
+          "jarUrl": "https://raw.githubusercontent.com/bapeey/extensions/repo/jar/tachiyomi-es.catharsisworld-v1.6.103.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106102",
-        "versionName": "1.6.102",
+        "versionCode": "106103",
+        "versionName": "1.6.103",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {

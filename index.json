@@ -112,6 +112,27 @@
             "homeUrl": "https://manhwaweb.com"
           }
         ]
+      },
+      {
+        "name": "NexusScanlation",
+        "packageName": "eu.kanade.tachiyomi.extension.es.nexusscanlation",
+        "resources": {
+          "apkUrl": "https://cdn.jsdelivr.net/gh/bapeey/extensions@repo/apk/tachiyomi-es.nexusscanlation-v1.6.5.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/bapeey/extensions-source@main/src/es/nexusscanlation/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://raw.githubusercontent.com/bapeey/extensions/repo/jar/tachiyomi-es.nexusscanlation-v1.6.5.jar"
+        },
+        "extensionLib": "1.6",
+        "versionCode": "106005",
+        "versionName": "1.6.5",
+        "contentWarning": "CONTENT_WARNING_NSFW",
+        "sources": [
+          {
+            "id": "4086183896761281232",
+            "name": "NexusScanlation",
+            "language": "es",
+            "homeUrl": "https://nexusscanlation.com"
+          }
+        ]
       }
     ]
   }

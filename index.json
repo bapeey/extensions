@@ -10,11 +10,11 @@
     "extensions": [
       {
         "name": "Catharsis World",
-        "packageName": "eu.kanade.tachiyomi.extension.es.catharsisworld",
+        "packageName": "eu.kanade.tachiyomi.extension.es.catharsisworld.bp",
         "resources": {
-          "apkUrl": "https://cdn.jsdelivr.net/gh/bapeey/extensions@repo/apk/tachiyomi-es.catharsisworld-v1.6.104.apk",
+          "apkUrl": "https://cdn.jsdelivr.net/gh/bapeey/extensions@repo/apk/tachiyomi-es.catharsisworld.bp-v1.6.104.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/bapeey/extensions-source@main/src/es/catharsisworld/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://raw.githubusercontent.com/bapeey/extensions/repo/jar/tachiyomi-es.catharsisworld-v1.6.104.jar"
+          "jarUrl": "https://raw.githubusercontent.com/bapeey/extensions/repo/jar/tachiyomi-es.catharsisworld.bp-v1.6.104.jar"
         },
         "extensionLib": "1.6",
         "versionCode": "106104",
@@ -31,11 +31,11 @@
       },
       {
         "name": "Dat-Gar Scan",
-        "packageName": "eu.kanade.tachiyomi.extension.es.datgarscanlation",
+        "packageName": "eu.kanade.tachiyomi.extension.es.datgarscanlation.bp",
         "resources": {
-          "apkUrl": "https://cdn.jsdelivr.net/gh/bapeey/extensions@repo/apk/tachiyomi-es.datgarscanlation-v1.6.114.apk",
+          "apkUrl": "https://cdn.jsdelivr.net/gh/bapeey/extensions@repo/apk/tachiyomi-es.datgarscanlation.bp-v1.6.114.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/bapeey/extensions-source@main/src/es/datgarscanlation/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://raw.githubusercontent.com/bapeey/extensions/repo/jar/tachiyomi-es.datgarscanlation-v1.6.114.jar"
+          "jarUrl": "https://raw.githubusercontent.com/bapeey/extensions/repo/jar/tachiyomi-es.datgarscanlation.bp-v1.6.114.jar"
         },
         "extensionLib": "1.6",
         "versionCode": "106114",
@@ -52,11 +52,11 @@
       },
       {
         "name": "EternalMangas",
-        "packageName": "eu.kanade.tachiyomi.extension.es.eternalmangas",
+        "packageName": "eu.kanade.tachiyomi.extension.es.eternalmangas.bp",
         "resources": {
-          "apkUrl": "https://cdn.jsdelivr.net/gh/bapeey/extensions@repo/apk/tachiyomi-es.eternalmangas-v1.6.102.apk",
+          "apkUrl": "https://cdn.jsdelivr.net/gh/bapeey/extensions@repo/apk/tachiyomi-es.eternalmangas.bp-v1.6.102.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/bapeey/extensions-source@main/src/es/eternalmangas/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://raw.githubusercontent.com/bapeey/extensions/repo/jar/tachiyomi-es.eternalmangas-v1.6.102.jar"
+          "jarUrl": "https://raw.githubusercontent.com/bapeey/extensions/repo/jar/tachiyomi-es.eternalmangas.bp-v1.6.102.jar"
         },
         "extensionLib": "1.6",
         "versionCode": "106102",
@@ -73,11 +73,11 @@
       },
       {
         "name": "Ikigai Mangas",
-        "packageName": "eu.kanade.tachiyomi.extension.es.ikigaimangas",
+        "packageName": "eu.kanade.tachiyomi.extension.es.ikigaimangas.bp",
         "resources": {
-          "apkUrl": "https://cdn.jsdelivr.net/gh/bapeey/extensions@repo/apk/tachiyomi-es.ikigaimangas-v1.6.107.apk",
+          "apkUrl": "https://cdn.jsdelivr.net/gh/bapeey/extensions@repo/apk/tachiyomi-es.ikigaimangas.bp-v1.6.107.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/bapeey/extensions-source@main/src/es/ikigaimangas/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://raw.githubusercontent.com/bapeey/extensions/repo/jar/tachiyomi-es.ikigaimangas-v1.6.107.jar"
+          "jarUrl": "https://raw.githubusercontent.com/bapeey/extensions/repo/jar/tachiyomi-es.ikigaimangas.bp-v1.6.107.jar"
         },
         "extensionLib": "1.6",
         "versionCode": "106107",
@@ -94,11 +94,11 @@
       },
       {
         "name": "ManhwaWeb",
-        "packageName": "eu.kanade.tachiyomi.extension.es.manhwaweb",
+        "packageName": "eu.kanade.tachiyomi.extension.es.manhwaweb.bp",
         "resources": {
-          "apkUrl": "https://cdn.jsdelivr.net/gh/bapeey/extensions@repo/apk/tachiyomi-es.manhwaweb-v1.4.100.apk",
+          "apkUrl": "https://cdn.jsdelivr.net/gh/bapeey/extensions@repo/apk/tachiyomi-es.manhwaweb.bp-v1.4.100.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/bapeey/extensions-source@main/src/es/manhwaweb/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://raw.githubusercontent.com/bapeey/extensions/repo/jar/tachiyomi-es.manhwaweb-v1.4.100.jar"
+          "jarUrl": "https://raw.githubusercontent.com/bapeey/extensions/repo/jar/tachiyomi-es.manhwaweb.bp-v1.4.100.jar"
         },
         "extensionLib": "1.4",
         "versionCode": "104100",

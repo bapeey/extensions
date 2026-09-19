@@ -93,6 +93,27 @@
         ]
       },
       {
+        "name": "Ikigai Mangas",
+        "packageName": "eu.kanade.tachiyomi.extension.es.ikigaimangas.bp",
+        "resources": {
+          "apkUrl": "https://cdn.jsdelivr.net/gh/bapeey/extensions@repo/apk/tachiyomi-es.ikigaimangas.bp-v1.6.108.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/bapeey/extensions-source@main/src/es/ikigaimangas/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://raw.githubusercontent.com/bapeey/extensions/repo/jar/tachiyomi-es.ikigaimangas.bp-v1.6.108.jar"
+        },
+        "extensionLib": "1.6",
+        "versionCode": "106108",
+        "versionName": "1.6.108",
+        "contentWarning": "CONTENT_WARNING_MIXED",
+        "sources": [
+          {
+            "id": "7749406396573482811",
+            "name": "Ikigai Mangas",
+            "language": "es",
+            "homeUrl": "https://visorikigai.gettocaboca.com"
+          }
+        ]
+      },
+      {
         "name": "ManhwaWeb",
         "packageName": "eu.kanade.tachiyomi.extension.es.manhwaweb.bp",
         "resources": {

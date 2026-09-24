@@ -75,13 +75,13 @@
         "name": "Ikigai Mangas",
         "packageName": "eu.kanade.tachiyomi.extension.es.ikigaimangas.bp",
         "resources": {
-          "apkUrl": "https://cdn.jsdelivr.net/gh/bapeey/extensions@repo/apk/tachiyomi-es.ikigaimangas.bp-v1.6.110.apk",
+          "apkUrl": "https://cdn.jsdelivr.net/gh/bapeey/extensions@repo/apk/tachiyomi-es.ikigaimangas.bp-v1.6.111.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/bapeey/extensions-source@main/src/es/ikigaimangas/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://raw.githubusercontent.com/bapeey/extensions/repo/jar/tachiyomi-es.ikigaimangas.bp-v1.6.110.jar"
+          "jarUrl": "https://raw.githubusercontent.com/bapeey/extensions/repo/jar/tachiyomi-es.ikigaimangas.bp-v1.6.111.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106110",
-        "versionName": "1.6.110",
+        "versionCode": "106111",
+        "versionName": "1.6.111",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {

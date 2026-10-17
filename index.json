@@ -12,17 +12,17 @@
         "name": "Catharsis World",
         "packageName": "eu.kanade.tachiyomi.extension.es.catharsisworld.bp",
         "resources": {
-          "apkUrl": "https://cdn.jsdelivr.net/gh/bapeey/extensions@repo/apk/tachiyomi-es.catharsisworld.bp-v1.6.109.apk",
+          "apkUrl": "https://cdn.jsdelivr.net/gh/bapeey/extensions@repo/apk/tachiyomi-es.catharsisworld.bp-v1.6.110.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/bapeey/extensions-source@main/src/es/catharsisworld/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://raw.githubusercontent.com/bapeey/extensions/repo/jar/tachiyomi-es.catharsisworld.bp-v1.6.109.jar"
+          "jarUrl": "https://raw.githubusercontent.com/bapeey/extensions/repo/jar/tachiyomi-es.catharsisworld.bp-v1.6.110.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106109",
-        "versionName": "1.6.109",
+        "versionCode": "106110",
+        "versionName": "1.6.110",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
-            "id": "2240276887816651754",
+            "id": "7832748682224837565",
             "name": "Catharsis World",
             "language": "es",
             "homeUrl": "https://newcatharsis.dig-it.info"

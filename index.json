@@ -112,6 +112,27 @@
             "homeUrl": "https://manhwaweb.com"
           }
         ]
+      },
+      {
+        "name": "Temple Scan",
+        "packageName": "eu.kanade.tachiyomi.extension.es.templescanesp.bp",
+        "resources": {
+          "apkUrl": "https://cdn.jsdelivr.net/gh/bapeey/extensions@repo/apk/tachiyomi-es.templescanesp.bp-v1.6.70.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/bapeey/extensions-source@main/src/es/templescanesp/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://raw.githubusercontent.com/bapeey/extensions/repo/jar/tachiyomi-es.templescanesp.bp-v1.6.70.jar"
+        },
+        "extensionLib": "1.6",
+        "versionCode": "106070",
+        "versionName": "1.6.70",
+        "contentWarning": "CONTENT_WARNING_NSFW",
+        "sources": [
+          {
+            "id": "3451196845457607826",
+            "name": "Temple Scan",
+            "language": "es",
+            "homeUrl": "https://aedexnox.syakaihoken-web.com"
+          }
+        ]
       }
     ]
   }

@@ -9,6 +9,27 @@
   "extensionList": {
     "extensions": [
       {
+        "name": "CapibaraTraductor",
+        "packageName": "eu.kanade.tachiyomi.extension.es.capibaratraductor.bp",
+        "resources": {
+          "apkUrl": "https://cdn.jsdelivr.net/gh/bapeey/extensions@repo/apk/tachiyomi-es.capibaratraductor.bp-v1.6.3.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/bapeey/extensions-source@main/src/es/capibaratraductor/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://raw.githubusercontent.com/bapeey/extensions/repo/jar/tachiyomi-es.capibaratraductor.bp-v1.6.3.jar"
+        },
+        "extensionLib": "1.6",
+        "versionCode": "106003",
+        "versionName": "1.6.3",
+        "contentWarning": "CONTENT_WARNING_MIXED",
+        "sources": [
+          {
+            "id": "3335229490349802396",
+            "name": "CapibaraTraductor",
+            "language": "es",
+            "homeUrl": "https://capibaratraductor.com"
+          }
+        ]
+      },
+      {
         "name": "Catharsis World",
         "packageName": "eu.kanade.tachiyomi.extension.es.catharsisworld.bp",
         "resources": {

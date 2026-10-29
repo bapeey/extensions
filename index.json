@@ -54,13 +54,13 @@
         "name": "Dat-Gar Scan",
         "packageName": "eu.kanade.tachiyomi.extension.es.datgarscanlation.bp",
         "resources": {
-          "apkUrl": "https://cdn.jsdelivr.net/gh/bapeey/extensions@repo/apk/tachiyomi-es.datgarscanlation.bp-v1.6.114.apk",
+          "apkUrl": "https://cdn.jsdelivr.net/gh/bapeey/extensions@repo/apk/tachiyomi-es.datgarscanlation.bp-v1.6.115.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/bapeey/extensions-source@main/src/es/datgarscanlation/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://raw.githubusercontent.com/bapeey/extensions/repo/jar/tachiyomi-es.datgarscanlation.bp-v1.6.114.jar"
+          "jarUrl": "https://raw.githubusercontent.com/bapeey/extensions/repo/jar/tachiyomi-es.datgarscanlation.bp-v1.6.115.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106114",
-        "versionName": "1.6.114",
+        "versionCode": "106115",
+        "versionName": "1.6.115",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
